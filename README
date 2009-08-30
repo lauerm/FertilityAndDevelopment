@@ -1,0 +1,19 @@
+
+Fertility and Development
+
+Some Mathematica code to graph fertility and development of countries
+Written by Mark Lauer, August 30th, 2009
+This program is hereby released to the public domain for any purpose.
+
+The included notebook generates graphics from the data used in the paper:
+Mikko Myrskylä, Hans-Peter Kohler & Francesco C. Billari (2009)
+"Advances in development reverse fertility declines"
+Nature 460, 741-743 (6 August 2009) | doi:10.1038/nature08230
+http://www.nature.com/nature/journal/v460/n7256/full/nature08230.html
+
+The data is available at:
+http://www.nature.com/nature/journal/v460/n7256/suppinfo/nature08230.html
+
+This was reported in The Economist 6/8/2009:
+http://www.economist.com/sciencetechnology/displaystory.cfm?story_id=14164483
+
