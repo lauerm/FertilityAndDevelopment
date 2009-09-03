@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       145,          7]
-NotebookDataLength[    553468,      11987]
-NotebookOptionsPosition[    547552,      11801]
-NotebookOutlinePosition[    548120,      11822]
-CellTagsIndexPosition[    548077,      11819]
+NotebookDataLength[    553794,      11993]
+NotebookOptionsPosition[    547834,      11806]
+NotebookOutlinePosition[    548444,      11828]
+CellTagsIndexPosition[    548401,      11825]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -32,14 +32,22 @@ This program is hereby released to the public domain for any purpose.\
   3.459862532827954*^9, 3.459862553688081*^9}, {3.460646340759573*^9, 
   3.4606463408309*^9}, {3.460940893401458*^9, 3.460940910780363*^9}}],
 
-Cell["\<\
-This notebook generates graphics from the data used in the paper:
-Mikko Myrskyl\[ADoubleDot], Hans-Peter Kohler & Francesco C. Billari (2009)
-\"Advances in development reverse fertility declines\"
-Nature 460, 741-743 (6 August 2009) | doi:10.1038/nature08230
-http://www.nature.com/nature/journal/v460/n7256/full/nature08230.html\
-\>", "Text",
- CellChangeTimes->{{3.459862602366779*^9, 3.459862673947098*^9}}],
+Cell[TextData[{
+ "This notebook generates graphics from the data used in the paper:\nMikko \
+Myrskyl\[ADoubleDot], Hans-Peter Kohler & Francesco C. Billari (2009)\n\
+\"Advances in development reverse fertility declines\"\nNature 460, 741-743 \
+(6 August 2009) | doi:10.1038/nature08230\n",
+ ButtonBox["http://www.nature.com/nature/journal/v460/n7256/full/nature08230.\
+html",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["http://www.nature.com/nature/journal/v460/n7256/full/nature08230.\
+html"], None},
+  ButtonNote->
+   "http://www.nature.com/nature/journal/v460/n7256/full/nature08230.html"]
+}], "Text",
+ CellChangeTimes->{{3.459862602366779*^9, 3.459862673947098*^9}, {
+  3.460951185431666*^9, 3.460951185432705*^9}}],
 
 Cell[CellGroupData[{
 
@@ -1616,7 +1624,7 @@ Cell[BoxData[
                     0.7136794281500753}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{147.30859527056117`, 187.32115449580607`}, {
-             53.26099522150324, 85.73046162269787}}], "\"China\"", LabelStyle -> 
+             52.26099522150321, 84.73046162269785}}], "\"China\"", LabelStyle -> 
            "TextStyling"], Annotation[#, "China", "Tooltip"]& ], 
          StatusArea[#, 1.298014226*^9]& , TagBoxNote -> "1.298014226*^9"], 
         StyleBox["1.298014226`*^9", {
@@ -1653,9 +1661,9 @@ Cell[BoxData[
                     0.6815707430649349}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{107.76186288345244`, 145.71575326038428`}, {
-             27.361850751037977`, 58.18116408221242}}], "\"India\"", 
-           LabelStyle -> "TextStyling"], Annotation[#, "India", "Tooltip"]& ],
-          StatusArea[#, 1.151751462*^9]& , TagBoxNote -> "1.151751462*^9"], 
+             26.36185075103795, 57.18116408221239}}], "\"India\"", LabelStyle -> 
+           "TextStyling"], Annotation[#, "India", "Tooltip"]& ], 
+         StatusArea[#, 1.151751462*^9]& , TagBoxNote -> "1.151751462*^9"], 
         StyleBox["1.151751462`*^9", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
         Style[1.151751462*^9, {
@@ -1690,7 +1698,7 @@ Cell[BoxData[
                     0.4276022401838972}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{207.7367466945794, 229.4072843291756}, {
-             57.19452272352713, 74.96170067119665}}], "\"USA\"", LabelStyle -> 
+             56.1945227235271, 73.96170067119662}}], "\"USA\"", LabelStyle -> 
            "TextStyling"], Annotation[#, "USA", "Tooltip"]& ], 
          StatusArea[#, 3.02841225*^8]& , TagBoxNote -> "3.02841225*^8"], 
         StyleBox["3.02841225`*^8", {
@@ -1727,7 +1735,7 @@ Cell[BoxData[
                     0.39267410499631156`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{143.8555260738469, 163.28662401635717`}, {
-             48.995535192877, 64.96766082504237}}], "\"Indonesia\"", 
+             47.99553519287698, 63.96766082504235}}], "\"Indonesia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Indonesia", "Tooltip"]& ], 
          StatusArea[#, 2.28864475*^8]& , TagBoxNote -> "2.28864475*^8"], 
@@ -1765,9 +1773,8 @@ Cell[BoxData[
                     0.04523481929777244, 0.3716502797286802}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{170.08750265942544`, 188.1706446194317}, {
-             50.10109116879349, 64.99274496858833}}], "\"Brazil\"", 
-           LabelStyle -> "TextStyling"], 
-          Annotation[#, "Brazil", "Tooltip"]& ], 
+             49.10109116879346, 63.9927449685883}}], "\"Brazil\"", LabelStyle -> 
+           "TextStyling"], Annotation[#, "Brazil", "Tooltip"]& ], 
          StatusArea[#, 1.89322987*^8]& , TagBoxNote -> "1.89322987*^8"], 
         StyleBox["1.89322987`*^8", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
@@ -1803,7 +1810,7 @@ Cell[BoxData[
                     0.3551676370133507}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{98.42714797247322, 
-             115.45349476924102`}, {-4.851034292860993, 9.193531455628548}}], 
+             115.45349476924102`}, {-5.851034292861021, 8.19353145562852}}], 
            "\"Pakistan\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Pakistan", "Tooltip"]& ], 
          StatusArea[#, 1.60943055*^8]& , TagBoxNote -> "1.60943055*^8"], 
@@ -1841,7 +1848,7 @@ Cell[BoxData[
                     0.3521463553422412}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{103.52879244166226`, 120.36142783474592`}, {
-             33.7711511949386, 47.66044502208482}}], "\"Bangladesh\"", 
+             32.77115119493857, 46.660445022084794`}}], "\"Bangladesh\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Bangladesh", "Tooltip"]& ], 
          StatusArea[#, 1.55990777*^8]& , TagBoxNote -> "1.55990777*^8"], 
@@ -1879,8 +1886,8 @@ Cell[BoxData[
                     0.042001613844980676`, 0.34508619193957374`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{79.4287563518281, 
-             95.80872485984534}, {-35.42761740859586, -21.901164672041272`}}],
-            "\"Nigeria\"", LabelStyle -> "TextStyling"], 
+             95.80872485984534}, {-36.427617408595886`, -22.9011646720413}}], 
+           "\"Nigeria\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Nigeria", "Tooltip"]& ], 
          StatusArea[#, 1.44719953*^8]& , TagBoxNote -> "1.44719953*^8"], 
         StyleBox["1.44719953`*^8", {
@@ -1917,8 +1924,9 @@ Cell[BoxData[
                      0.34412699098780347`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{170.89966645693102`, 187.21813518339547`}, {
-             78.17496984373575, 91.6521266221677}}], "\"Russia\"", LabelStyle -> 
-           "TextStyling"], Annotation[#, "Russia", "Tooltip"]& ], 
+             77.17496984373572, 90.65212662216767}}], "\"Russia\"", 
+           LabelStyle -> "TextStyling"], 
+          Annotation[#, "Russia", "Tooltip"]& ], 
          StatusArea[#, 1.43221294*^8]& , TagBoxNote -> "1.43221294*^8"], 
         StyleBox["1.43221294`*^8", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
@@ -1954,7 +1962,7 @@ Cell[BoxData[
                      0.3340532006906231}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{210.7502267639839, 226.4228079925875}, {
-             77.40597499570273, 90.36541216208725}}], "\"Japan\"", LabelStyle -> 
+             76.4059749957027, 89.36541216208722}}], "\"Japan\"", LabelStyle -> 
            "TextStyling"], Annotation[#, "Japan", "Tooltip"]& ], 
          StatusArea[#, 1.27953099*^8]& , TagBoxNote -> "1.27953099*^8"], 
         StyleBox["1.27953099`*^8", {
@@ -1991,8 +1999,9 @@ Cell[BoxData[
                     0.03869957304804865, 0.31795655143461604`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{176.37233807197512`, 191.0128723544738}, {
-             53.40805235816768, 65.5402387319269}}], "\"Mexico\"", LabelStyle -> 
-           "TextStyling"], Annotation[#, "Mexico", "Tooltip"]& ], 
+             52.40805235816765, 64.54023873192688}}], "\"Mexico\"", 
+           LabelStyle -> "TextStyling"], 
+          Annotation[#, "Mexico", "Tooltip"]& ], 
          StatusArea[#, 1.05342118*^8]& , TagBoxNote -> "1.05342118*^8"], 
         StyleBox["1.05342118`*^8", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
@@ -2028,7 +2037,7 @@ Cell[BoxData[
                     0.30296884487601344`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{161.9903256636538, 175.6699135692442}, {
-             22.1866513444202, 33.5485785211846}}], "\"Philippines\"", 
+             21.186651344420163`, 32.54857852118457}}], "\"Philippines\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Philippines", "Tooltip"]& ], 
          StatusArea[#, 8.6263713*^7]& , TagBoxNote -> "8.6263713*^7"], 
@@ -2065,8 +2074,8 @@ Cell[BoxData[
                     Circle[{0.6897933719999999, 1.87}, {0.036869545674935986`,
                      0.3029210059038316}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
-            ImageSizeCache -> {{146.9571122936362, 160.63363297297602`}, {
-             64.07295778498761, 75.43242638624189}}], "\"Vietnam\"", 
+            ImageSizeCache -> {{146.9571122936362, 160.63363297297605`}, {
+             63.072957784987565`, 74.43242638624187}}], "\"Vietnam\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Vietnam", "Tooltip"]& ], 
          StatusArea[#, 8.6205866*^7]& , TagBoxNote -> "8.6205866*^7"], 
@@ -2104,7 +2113,7 @@ Cell[BoxData[
                     0.29994114319912263`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{205.24127814728917`, 218.72674302642517`}, {
-             78.53949458551915, 89.74581989929918}}], "\"Germany\"", 
+             77.53949458551912, 88.74581989929915}}], "\"Germany\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Germany", "Tooltip"]& ], 
          StatusArea[#, 8.2640853*^7]& , TagBoxNote -> "8.2640853*^7"], 
@@ -2142,8 +2151,8 @@ Cell[BoxData[
                     0.2985656158315337}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{51.28719266866211, 
-             64.68446473223588}, {-31.662571006902734`, \
--20.526937803450647`}}], "\"Ethiopia\"", LabelStyle -> "TextStyling"], 
+             64.68446473223588}, {-32.662571006902766`, \
+-21.526937803450675`}}], "\"Ethiopia\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Ethiopia", "Tooltip"]& ], 
          StatusArea[#, 8.1020611*^7]& , TagBoxNote -> "8.1020611*^7"], 
         StyleBox["8.1020611`*^7", {
@@ -2180,9 +2189,9 @@ Cell[BoxData[
                     0.2925885672164063}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{143.37162195992124`, 156.38567173469096`}, {
-             27.592660032274637`, 38.42111637389762}}], "\"Egypt\"", 
-           LabelStyle -> "TextStyling"], Annotation[#, "Egypt", "Tooltip"]& ],
-          StatusArea[#, 7.4166496*^7]& , TagBoxNote -> "7.4166496*^7"], 
+             26.59266003227461, 37.42111637389759}}], "\"Egypt\"", LabelStyle -> 
+           "TextStyling"], Annotation[#, "Egypt", "Tooltip"]& ], 
+         StatusArea[#, 7.4166496*^7]& , TagBoxNote -> "7.4166496*^7"], 
         StyleBox["7.4166496`*^7", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
         Style[7.4166496*^7, {
@@ -2217,7 +2226,7 @@ Cell[BoxData[
                      0.29237015308535724`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{163.63125951233866`, 176.63130552562055`}, {
-             49.18322021699404, 60.00045165956149}}], "\"Turkey\"", 
+             48.18322021699401, 59.00045165956146}}], "\"Turkey\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Turkey", "Tooltip"]& ], 
          StatusArea[#, 7.3921768*^7]& , TagBoxNote -> "7.3921768*^7"], 
@@ -2255,7 +2264,7 @@ Cell[BoxData[
                     0.035183350765771323`, 0.2890671910904505}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{156.09694313873172`, 168.8852176344928}, {
-             57.90207343253663, 68.54955663217221}}], "\"Iran\"", LabelStyle -> 
+             56.9020734325366, 67.54955663217218}}], "\"Iran\"", LabelStyle -> 
            "TextStyling"], Annotation[#, "Iran", "Tooltip"]& ], 
          StatusArea[#, 7.0270178*^7]& , TagBoxNote -> "7.0270178*^7"], 
         StyleBox["7.0270178`*^7", {
@@ -2291,8 +2300,8 @@ Cell[BoxData[
                     Circle[{0.7616522979999999, 1.9279999999999997`}, {
                     0.03440274922757584, 0.2826537515204312}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
-            ImageSizeCache -> {{166.53359747538371`, 178.91067019759583`}, {
-             63.10336333017857, 73.42124234428637}}], "\"Thailand\"", 
+            ImageSizeCache -> {{166.53359747538374`, 178.9106701975958}, {
+             62.103363330178546`, 72.42124234428633}}], "\"Thailand\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Thailand", "Tooltip"]& ], 
          StatusArea[#, 6.344395*^7]& , TagBoxNote -> "6.344395*^7"], 
@@ -2330,7 +2339,7 @@ Cell[BoxData[
                     0.03436966382596955, 0.28238192112621724`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{211.58472665316194`, 223.94437079606254`}, {
-             64.34377396844185, 74.64768287575929}}], "\"France\"", 
+             63.34377396844182, 73.64768287575926}}], "\"France\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "France", "Tooltip"]& ], 
          StatusArea[#, 6.3162327*^7]& , TagBoxNote -> "6.3162327*^7"], 
@@ -2368,8 +2377,8 @@ Cell[BoxData[
                     0.2799235945512812}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{65.80135923230226, 
-             78.00338619700386}, {-59.44954178511492, -49.27197299835945}}], 
-           "\"Congo, Dem. Rep.\"", LabelStyle -> "TextStyling"], 
+             78.00338619700386}, {-60.449541785114945`, -50.27197299835948}}],
+            "\"Congo, Dem. Rep.\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Congo, Dem. Rep.", "Tooltip"]& ], 
          StatusArea[#, 6.064389*^7]& , TagBoxNote -> "6.064389*^7"], 
         StyleBox["6.064389`*^7", {
@@ -2406,7 +2415,7 @@ Cell[BoxData[
                     0.27979351597353425`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{209.06498412771893`, 221.2586710213422}, {
-             70.57741449985156, 80.74829819303051}}], "\"United Kingdom\"", 
+             69.57741449985153, 79.74829819303048}}], "\"United Kingdom\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "United Kingdom", "Tooltip"]& ], 
          StatusArea[#, 6.0512058*^7]& , TagBoxNote -> "6.0512058*^7"], 
@@ -2444,7 +2453,7 @@ Cell[BoxData[
                     0.033844835781764435`, 0.27806992226192834`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{210.28966066202955`, 222.3728382441746}, {
-             80.38632380884505, 90.46862731111514}}], "\"Italy\"", LabelStyle -> 
+             79.38632380884502, 89.46862731111511}}], "\"Italy\"", LabelStyle -> 
            "TextStyling"], Annotation[#, "Italy", "Tooltip"]& ], 
          StatusArea[#, 5.8778774*^7]& , TagBoxNote -> "5.8778774*^7"], 
         StyleBox["5.8778774`*^7", {
@@ -2480,7 +2489,7 @@ Cell[BoxData[
                     0.26703925789478306`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{132.49593759787788`, 143.87187709012218`}, {
-             40.069512966281344`, 49.584920483196036`}}], "\"South Africa\"", 
+             39.069512966281316`, 48.58492048319601}}], "\"South Africa\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "South Africa", "Tooltip"]& ], 
          StatusArea[#, 4.8282459*^7]& , TagBoxNote -> "4.8282459*^7"], 
@@ -2518,7 +2527,7 @@ Cell[BoxData[
                     0.26678251884980325`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{202.7634588740319, 214.12293737845792`}, {
-             82.98904203370694, 92.49125502950861}}], "\"S. Korea\"", 
+             81.98904203370691, 91.49125502950858}}], "\"S. Korea\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "S. Korea", "Tooltip"]& ], 
          StatusArea[#, 4.8050441*^7]& , TagBoxNote -> "4.8050441*^7"], 
@@ -2556,7 +2565,7 @@ Cell[BoxData[
                     0.265115379517923}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{170.97334072705937`, 182.22592952861413`}, {
-             84.8306271013371, 94.24716125107706}}], "\"Ukraine\"", 
+             83.83062710133707, 93.24716125107703}}], "\"Ukraine\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Ukraine", "Tooltip"]& ], 
          StatusArea[#, 4.6557424*^7]& , TagBoxNote -> "4.6557424*^7"], 
@@ -2579,6 +2588,7 @@ Cell[BoxData[
                 Opacity[0.66]}], {}, {}], 
              DynamicBox[
               Typeset`ToBoxes[{
+                
                 Disk[{0.771075108, 2.623}, {0.017426985937229966`, 
                  0.14318050340301092`}], 
                 If[
@@ -2593,7 +2603,7 @@ Cell[BoxData[
                     0.26398493155308594`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{169.61393190494104`, 180.7940413133447}, {
-             45.72410955317221, 55.08254689282083}}], "\"Colombia\"", 
+             44.724109553172184`, 54.0825468928208}}], "\"Colombia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Colombia", "Tooltip"]& ], 
          StatusArea[#, 4.555845*^7]& , TagBoxNote -> "4.555845*^7"], 
@@ -2631,7 +2641,7 @@ Cell[BoxData[
                     0.26206520902240654`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{209.5640827267158, 220.6211078991617}, {
-             80.54062312008301, 89.80040067284881}}], "\"Spain\"", LabelStyle -> 
+             79.54062312008298, 88.80040067284878}}], "\"Spain\"", LabelStyle -> 
            "TextStyling"], Annotation[#, "Spain", "Tooltip"]& ], 
          StatusArea[#, 4.3886817*^7]& , TagBoxNote -> "4.3886817*^7"], 
         StyleBox["4.3886817`*^7", {
@@ -2668,7 +2678,7 @@ Cell[BoxData[
                     0.031207079095797324`, 0.25639805476219174`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{190.48104029776607`, 201.17471225586658`}, {
-             52.93417273259138, 61.90269974127621}}], "\"Argentina\"", 
+             51.93417273259135, 60.90269974127618}}], "\"Argentina\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Argentina", "Tooltip"]& ], 
          StatusArea[#, 3.9134297*^7]& , TagBoxNote -> "3.9134297*^7"], 
@@ -2706,8 +2716,8 @@ Cell[BoxData[
                     0.03109218269954318, 0.25545406341944815`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{72.64633126691008, 
-             83.27947861725319}, {-32.182197289167775`, \
--23.262184575234354`}}], "\"Tanzania\"", LabelStyle -> "TextStyling"], 
+             83.27947861725319}, {-33.1821972891678, -24.262184575234382`}}], 
+           "\"Tanzania\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Tanzania", "Tooltip"]& ], 
          StatusArea[#, 3.8369113*^7]& , TagBoxNote -> "3.8369113*^7"], 
         StyleBox["3.8369113`*^7", {
@@ -2744,9 +2754,8 @@ Cell[BoxData[
                     0.2551697170384994}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{191.3055807119292, 201.92049701247888`}, {
-             81.48870319881732, 90.39410257519962}}], "\"Poland\"", 
-           LabelStyle -> "TextStyling"], 
-          Annotation[#, "Poland", "Tooltip"]& ], 
+             80.48870319881729, 89.3941025751996}}], "\"Poland\"", LabelStyle -> 
+           "TextStyling"], Annotation[#, "Poland", "Tooltip"]& ], 
          StatusArea[#, 3.8140107*^7]& , TagBoxNote -> "3.8140107*^7"], 
         StyleBox["3.8140107`*^7", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
@@ -2782,10 +2791,10 @@ Cell[BoxData[
                     0.030991908454778987`, 0.2546302079980109}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{98.2957560297045, 
-             108.87608136360163`}, {-0.8542875355250601, 8.02338499694865}}], 
-           "\"Sudan\"", LabelStyle -> "TextStyling"], 
-          Annotation[#, "Sudan", "Tooltip"]& ], StatusArea[#, 3.7707483*^7]& ,
-          TagBoxNote -> "3.7707483*^7"], 
+             108.87608136360163`}, {-1.8542875355250885`, 
+             7.0233849969486215`}}], "\"Sudan\"", LabelStyle -> 
+           "TextStyling"], Annotation[#, "Sudan", "Tooltip"]& ], 
+         StatusArea[#, 3.7707483*^7]& , TagBoxNote -> "3.7707483*^7"], 
         StyleBox["3.7707483`*^7", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
         Style[3.7707483*^7, {
@@ -2820,8 +2829,8 @@ Cell[BoxData[
                      0.2531757766981166}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{89.93112978703988, 
-             100.41820332936828`}, {-15.078397261047332`, \
--6.275471927603729}}], "\"Kenya\"", LabelStyle -> "TextStyling"], 
+             100.41820332936828`}, {-16.078397261047357`, \
+-7.275471927603757}}], "\"Kenya\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Kenya", "Tooltip"]& ], StatusArea[#, 3.655349*^7]& , 
          TagBoxNote -> "3.655349*^7"], 
         StyleBox["3.655349`*^7", {
@@ -2858,7 +2867,7 @@ Cell[BoxData[
                      0.24901487455721621`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{153.6702958175147, 163.89059046199543`}, {
-             48.49854769272164, 57.087632894635284`}}], "\"Algeria\"", 
+             47.49854769272161, 56.087632894635256`}}], "\"Algeria\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Algeria", "Tooltip"]& ], 
          StatusArea[#, 3.3351137*^7]& , TagBoxNote -> "3.3351137*^7"], 
@@ -2896,10 +2905,9 @@ Cell[BoxData[
                      0.24797919321880496`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{213.60105025939924`, 223.7549415334987}, {
-             74.47849095474957, 83.01434966247294}}], "\"Canada\"", 
-           LabelStyle -> "TextStyling"], 
-          Annotation[#, "Canada", "Tooltip"]& ], StatusArea[#, 3.257686*^7]& ,
-          TagBoxNote -> "3.257686*^7"], 
+             73.47849095474955, 82.01434966247291}}], "\"Canada\"", 
+           LabelStyle -> "TextStyling"], Annotation[#, "Canada", "Tooltip"]& ]
+         , StatusArea[#, 3.257686*^7]& , TagBoxNote -> "3.257686*^7"], 
         StyleBox["3.257686`*^7", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
         Style[3.257686*^7, {
@@ -2934,7 +2942,7 @@ Cell[BoxData[
                     0.24626388571127505`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{129.97709680673003`, 140.02101004461696`}, {
-             49.34012910047816, 57.787833467963864`}}], "\"Morocco\"", 
+             48.34012910047813, 56.787833467963836`}}], "\"Morocco\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Morocco", "Tooltip"]& ], 
          StatusArea[#, 3.1314496*^7]& , TagBoxNote -> "3.1314496*^7"], 
@@ -2972,7 +2980,7 @@ Cell[BoxData[
                     0.2442982813902787}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{89.88737400652516, 
-             99.80526126816876}, {-68.8126472273132, -60.465960637296014`}}], 
+             99.80526126816876}, {-69.81264722731324, -61.46596063729604}}], 
            "\"Uganda\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Uganda", "Tooltip"]& ], 
          StatusArea[#, 2.9898598*^7]& , TagBoxNote -> "2.9898598*^7"], 
@@ -3010,7 +3018,7 @@ Cell[BoxData[
                     0.029340940957380584`, 0.24106582238187862`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{102.43265698977439`, 112.14329307789912`}, {
-             18.40679352124311, 26.587355209468722`}}], "\"Nepal\"", 
+             17.40679352124308, 25.587355209468694`}}], "\"Nepal\"", 
            LabelStyle -> "TextStyling"], Annotation[#, "Nepal", "Tooltip"]& ],
           StatusArea[#, 2.7641362*^7]& , TagBoxNote -> "2.7641362*^7"], 
         StyleBox["2.7641362`*^7", {
@@ -3047,7 +3055,7 @@ Cell[BoxData[
                     0.24098868222130515`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{164.28313723575522`, 173.98882743322434`}, {
-             40.12220531001833, 48.29880255459094}}], "\"Peru\"", LabelStyle -> 
+             39.1222053100183, 47.298802554590914`}}], "\"Peru\"", LabelStyle -> 
            "TextStyling"], Annotation[#, "Peru", "Tooltip"]& ], 
          StatusArea[#, 2.7588577*^7]& , TagBoxNote -> "2.7588577*^7"], 
         StyleBox["2.7588577`*^7", {
@@ -3084,7 +3092,7 @@ Cell[BoxData[
                     0.24040558398291662`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{171.55618733860877`, 181.22449182016666`}, {
-             42.80961091651837, 50.956241149185985`}}], "\"Venezuela\"", 
+             41.809610916518345`, 49.956241149185956`}}], "\"Venezuela\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Venezuela", "Tooltip"]& ], 
          StatusArea[#, 2.719121*^7]& , TagBoxNote -> "2.719121*^7"], 
@@ -3107,6 +3115,7 @@ Cell[BoxData[
                 Opacity[0.66]}], {}, {}], 
              DynamicBox[
               Typeset`ToBoxes[{
+                
                 Disk[{0.7831220429999999, 2.9319999999999995`}, {
                  0.014361969818237785`, 0.1179982629148204}], 
                 If[
@@ -3121,7 +3130,7 @@ Cell[BoxData[
                     0.029065487549285212`, 0.23880269106489543`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{173.59423478538415`, 183.159768763922}, {
-             38.431024427717944`, 46.49527761309842}}], "\"Malaysia\"", 
+             37.431024427717915`, 45.495277613098395`}}], "\"Malaysia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Malaysia", "Tooltip"]& ], 
          StatusArea[#, 2.6113731*^7]& , TagBoxNote -> "2.6113731*^7"], 
@@ -3159,7 +3168,7 @@ Cell[BoxData[
                     0.028704017522988273`, 0.23583284530288479`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{174.0862778860247, 183.4613983070365}, {
-             8.776642803834413, 16.688267499799224`}}], "\"Saudi Arabia\"", 
+             7.776642803834386, 15.688267499799199`}}], "\"Saudi Arabia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Saudi Arabia", "Tooltip"]& ], 
          StatusArea[#, 2.417494*^7]& , TagBoxNote -> "2.417494*^7"], 
@@ -3197,7 +3206,7 @@ Cell[BoxData[
                     0.23398834164365828`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{103.31417372905608`, 112.57103262008678`}, {
-             1.2179154055785366`, 9.034746018015314}}], "\"Ghana\"", 
+             0.2179154055785082, 8.034746018015285}}], "\"Ghana\"", 
            LabelStyle -> "TextStyling"], Annotation[#, "Ghana", "Tooltip"]& ],
           StatusArea[#, 2.3008443*^7]& , TagBoxNote -> "2.3008443*^7"], 
         StyleBox["2.3008443`*^7", {
@@ -3234,8 +3243,8 @@ Cell[BoxData[
                     0.23191597082528487`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{93.55232878686934, 
-             102.67631629949804`}, {-45.36773712248135, -37.6574113095744}}], 
-           "\"Yemen\"", LabelStyle -> "TextStyling"], 
+             102.67631629949804`}, {-46.36773712248138, -38.65741130957443}}],
+            "\"Yemen\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Yemen", "Tooltip"]& ], StatusArea[#, 2.1732247*^7]& ,
           TagBoxNote -> "2.1732247*^7"], 
         StyleBox["2.1732247`*^7", {
@@ -3272,7 +3281,7 @@ Cell[BoxData[
                     0.23158488388679882`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{174.6951407788479, 183.79790044098885`}, {
-             81.58082038479212, 89.27413073516806}}], "\"Romania\"", 
+             80.58082038479209, 88.27413073516803}}], "\"Romania\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Romania", "Tooltip"]& ], 
          StatusArea[#, 2.1531732*^7]& , TagBoxNote -> "2.1531732*^7"], 
@@ -3310,8 +3319,8 @@ Cell[BoxData[
                     0.028073377554709688`, 0.2306514933209977}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{56.826995395057445`, 
-             65.86991012502419}, {-27.656144595512014`, \
--20.010803736991644`}}], "\"Mozambique\"", LabelStyle -> "TextStyling"], 
+             65.86991012502419}, {-28.656144595512043`, \
+-21.010803736991672`}}], "\"Mozambique\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Mozambique", "Tooltip"]& ], 
          StatusArea[#, 2.0971449*^7]& , TagBoxNote -> "2.0971449*^7"], 
         StyleBox["2.0971449`*^7", {
@@ -3349,7 +3358,7 @@ Cell[BoxData[
                     0.027982880984209185`, 0.22990797148841086`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{221.03168472315707`, 230.02692807602668`}, {
-             68.80142413076246, 76.40855337048197}}], "\"Australia\"", 
+             67.80142413076243, 75.40855337048194}}], "\"Australia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Australia", "Tooltip"]& ], 
          StatusArea[#, 2.0530423*^7]& , TagBoxNote -> "2.0530423*^7"], 
@@ -3387,7 +3396,7 @@ Cell[BoxData[
                     0.22797807213161997`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{154.55469099239656`, 163.42619761560343`}, {
-             24.858836338027245`, 32.36678277595983}}], "\"Syria\"", 
+             23.858836338027217`, 31.3667827759598}}], "\"Syria\"", 
            LabelStyle -> "TextStyling"], Annotation[#, "Syria", "Tooltip"]& ],
           StatusArea[#, 1.9407558*^7]& , TagBoxNote -> "1.9407558*^7"], 
         StyleBox["1.9407558`*^7", {
@@ -3424,7 +3433,7 @@ Cell[BoxData[
                     0.02770541642814354, 0.22762831653504928`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{163.2528824772097, 172.1019642969943}, {
-             63.43806967944954, 70.92804122149624}}], "\"Sri Lanka\"", 
+             62.43806967944951, 69.92804122149622}}], "\"Sri Lanka\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Sri Lanka", "Tooltip"]& ], 
          StatusArea[#, 1.9207441*^7]& , TagBoxNote -> "1.9207441*^7"], 
@@ -3462,8 +3471,8 @@ Cell[BoxData[
                     0.2275433975188887}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{94.21440099396997, 
-             103.05803817680552`}, {-24.698284795766874`, \
--17.212677474019102`}}], "\"Madagascar\"", LabelStyle -> "TextStyling"], 
+             103.05803817680552`}, {-25.698284795766902`, \
+-18.21267747401913}}], "\"Madagascar\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Madagascar", "Tooltip"]& ], 
          StatusArea[#, 1.915901*^7]& , TagBoxNote -> "1.915901*^7"], 
         StyleBox["1.915901`*^7", {
@@ -3500,8 +3509,8 @@ Cell[BoxData[
                      0.22711297897058985`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{77.13452492401116, 
-             85.95056554676434}, {-15.950460043582991`, -8.486973107238285}}],
-            "\"Cote d'Ivoire\"", LabelStyle -> "TextStyling"], 
+             85.95056554676434}, {-16.95046004358302, -9.486973107238313}}], 
+           "\"Cote d'Ivoire\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Cote d'Ivoire", "Tooltip"]& ], 
          StatusArea[#, 1.8914474*^7]& , TagBoxNote -> "1.8914474*^7"], 
         StyleBox["1.8914474`*^7", {
@@ -3533,13 +3542,12 @@ Cell[BoxData[
                   System`BarFunctionDump`mouseover, {
                    "Highlight" -> "Post", "Post" -> {
                     Thickness[0.01], 
-                    
                     Circle[{0.48814878299999986`, 5.016667}, {
                     0.02748211159410489, 0.22579363906040534`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{96.318931857171, 
-             105.05038215907383`}, {-14.80305715880283, -7.40737470580642}}], 
-           "\"Cameroon\"", LabelStyle -> "TextStyling"], 
+             105.05038215907383`}, {-15.803057158802858`, \
+-8.407374705806449}}], "\"Cameroon\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Cameroon", "Tooltip"]& ], 
          StatusArea[#, 1.8174696*^7]& , TagBoxNote -> "1.8174696*^7"], 
         StyleBox["1.8174696`*^7", {
@@ -3576,8 +3584,8 @@ Cell[BoxData[
                     0.027119172559806625`, 0.22281172389603826`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{79.18107553722517, 
-             87.72133844416257}, {-59.266792551313884`, -52.02435886730233}}],
-            "\"Angola\"", LabelStyle -> "TextStyling"], 
+             87.72133844416257}, {-60.26679255131391, -53.02435886730236}}], 
+           "\"Angola\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Angola", "Tooltip"]& ], StatusArea[#, 1.655705*^7]& ,
           TagBoxNote -> "1.655705*^7"], 
         StyleBox["1.655705`*^7", {
@@ -3614,7 +3622,7 @@ Cell[BoxData[
                     0.22263854485978524`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{189.71846551580103`, 198.24762493823977`}, {
-             62.79539768988448, 70.02893122997615}}], "\"Chile\"", LabelStyle -> 
+             61.79539768988445, 69.02893122997612}}], "\"Chile\"", LabelStyle -> 
            "TextStyling"], Annotation[#, "Chile", "Tooltip"]& ], 
          StatusArea[#, 1.6465419*^7]& , TagBoxNote -> "1.6465419*^7"], 
         StyleBox["1.6465419`*^7", {
@@ -3651,7 +3659,7 @@ Cell[BoxData[
                     0.027078160575195947`, 0.22247476851986164`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{215.06373445292692`, 223.58239325074655`}, {
-             69.71192869524646, 76.93704532167739}}], "\"NL\"", LabelStyle -> 
+             68.71192869524643, 75.93704532167736}}], "\"NL\"", LabelStyle -> 
            "TextStyling"], Annotation[#, "NL", "Tooltip"]& ], 
          StatusArea[#, 1.6378997*^7]& , TagBoxNote -> "1.6378997*^7"], 
         StyleBox["1.6378997`*^7", {
@@ -3688,7 +3696,7 @@ Cell[BoxData[
                     0.02682813745720362, 0.22042057303101031`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{167.64990636249445`, 176.03685910477085`}, {
-             67.99166477683754, 75.11121068359056}}], "\"Kazakhstan\"", 
+             66.99166477683751, 74.11121068359053}}], "\"Kazakhstan\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Kazakhstan", "Tooltip"]& ], 
          StatusArea[#, 1.5314346*^7]& , TagBoxNote -> "1.5314346*^7"], 
@@ -3726,7 +3734,7 @@ Cell[BoxData[
                     0.21851457729775253`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{52.572539427241345`, 
-             60.83728803594232}, {-45.02337000477835, -38.0017784272774}}], 
+             60.83728803594232}, {-46.02337000477838, -39.00177842727743}}], 
            "\"Burkina Faso\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Burkina Faso", "Tooltip"]& ], 
          StatusArea[#, 1.43585*^7]& , TagBoxNote -> "1.43585*^7"], 
@@ -3764,7 +3772,7 @@ Cell[BoxData[
                     0.02655610497612369, 0.218185548126343}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{113.32621097206216`, 121.5698636653256}, {
-             7.9195995332728355`, 14.9242814025161}}], "\"Cambodia\"", 
+             6.919599533272807, 13.92428140251607}}], "\"Cambodia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Cambodia", "Tooltip"]& ], 
          StatusArea[#, 1.4196611*^7]& , TagBoxNote -> "1.4196611*^7"], 
@@ -3802,7 +3810,7 @@ Cell[BoxData[
                     0.2172404789393178}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{45.72105373005357, 
-             53.90411270888521}, {-88.80293493576102, -81.84682275463223}}], 
+             53.90411270888521}, {-89.80293493576104, -82.84682275463226}}], 
            "\"Niger\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Niger", "Tooltip"]& ], StatusArea[#, 1.3736722*^7]& ,
           TagBoxNote -> "1.3736722*^7"], 
@@ -3840,7 +3848,7 @@ Cell[BoxData[
                     0.026399083238784492`, 0.21689545404590843`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{68.07766586034988, 
-             76.23860334781334}, {-42.36073505268616, -35.42235464368018}}], 
+             76.23860334781334}, {-43.36073505268619, -36.42235464368021}}], 
            "\"Malawi\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Malawi", "Tooltip"]& ], 
          StatusArea[#, 1.3570713*^7]& , TagBoxNote -> "1.3570713*^7"], 
@@ -3878,7 +3886,7 @@ Cell[BoxData[
                     0.026311618205831038`, 0.21617683939311932`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{97.28574043690699, 105.40060348701137`}, {
-             22.798019433543594`, 29.69946827178244}}], "\"Zimbabwe\"", 
+             21.798019433543566`, 28.69946827178241}}], "\"Zimbabwe\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Zimbabwe", "Tooltip"]& ], 
          StatusArea[#, 1.3228191*^7]& , TagBoxNote -> "1.3228191*^7"], 
@@ -3916,7 +3924,7 @@ Cell[BoxData[
                     0.02630488253948691, 0.2161214990088795}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{164.38695584600575`, 172.49827071203515`}, {
-             41.94323441213793, 48.84183915680187}}], "\"Ecuador\"", 
+             40.943234412137905`, 47.84183915680184}}], "\"Ecuador\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Ecuador", "Tooltip"]& ], 
          StatusArea[#, 1.3201995*^7]& , TagBoxNote -> "1.3201995*^7"], 
@@ -3954,7 +3962,7 @@ Cell[BoxData[
                     0.21575374071719228`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{139.9987834600065, 
-             148.08651926832}, {-3.838240374298074, 3.0414642667819267`}}], 
+             148.08651926832}, {-4.838240374298103, 2.0414642667818983`}}], 
            "\"Guatemala\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Guatemala", "Tooltip"]& ], 
          StatusArea[#, 1.3028572*^7]& , TagBoxNote -> "1.3028572*^7"], 
@@ -3992,8 +4000,8 @@ Cell[BoxData[
                      0.21368078400042861`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{83.42074282587308, 
-             91.37556969053509}, {-14.063519459640938`, \
--7.2903497290101225`}}], "\"Senegal\"", LabelStyle -> "TextStyling"], 
+             91.37556969053509}, {-15.063519459640967`, -8.29034972901015}}], 
+           "\"Senegal\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Senegal", "Tooltip"]& ], 
          StatusArea[#, 1.2072479*^7]& , TagBoxNote -> "1.2072479*^7"], 
         StyleBox["1.2072479`*^7", {
@@ -4030,8 +4038,8 @@ Cell[BoxData[
                     0.025979748530283158`, 0.21345019077009958`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{54.30237793936864, 
-             62.24242017181502}, {-63.420313812591395`, -56.65899489820996}}],
-            "\"Mali\"", LabelStyle -> "TextStyling"], 
+             62.24242017181502}, {-64.42031381259142, -57.65899489820999}}], 
+           "\"Mali\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Mali", "Tooltip"]& ], StatusArea[#, 1.1968376*^7]& , 
          TagBoxNote -> "1.1968376*^7"], 
         StyleBox["1.1968376`*^7", {
@@ -4063,13 +4071,12 @@ Cell[BoxData[
                   System`BarFunctionDump`mouseover, {
                    "Highlight" -> "Post", "Post" -> {
                     Thickness[0.01], 
-                    
                     Circle[{0.37680349699999993`, 5.651}, {
                     0.025905776510762545`, 0.2128424350152684}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{67.40713429532644, 
-             75.30820987944902}, {-30.770311431761435`, \
--24.040226746436655`}}], "\"Zambia\"", LabelStyle -> "TextStyling"], 
+             75.30820987944902}, {-31.770311431761463`, \
+-25.040226746436684`}}], "\"Zambia\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Zambia", "Tooltip"]& ], StatusArea[#, 1.169616*^7]& ,
           TagBoxNote -> "1.169616*^7"], 
         StyleBox["1.169616`*^7", {
@@ -4106,7 +4113,7 @@ Cell[BoxData[
                     0.21153809186273448`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{204.69249816575183`, 212.50994495571754`}, {
-             81.838986433299, 88.50203735963282}}], "\"Greece\"", LabelStyle -> 
+             80.83898643329897, 87.5020373596328}}], "\"Greece\"", LabelStyle -> 
            "TextStyling"], Annotation[#, "Greece", "Tooltip"]& ], 
          StatusArea[#, 1.1122512*^7]& , TagBoxNote -> "1.1122512*^7"], 
         StyleBox["1.1122512`*^7", {
@@ -4143,7 +4150,7 @@ Cell[BoxData[
                     0.21027005671417226`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{203.35474145115518`, 211.09088735782439`}, {
-             78.01711537631013, 84.6149985111961}}], "\"Portugal\"", 
+             77.0171153763101, 83.61499851119608}}], "\"Portugal\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Portugal", "Tooltip"]& ], 
          StatusArea[#, 1.0578659*^7]& , TagBoxNote -> "1.0578659*^7"], 
@@ -4181,7 +4188,7 @@ Cell[BoxData[
                     0.025560849882076447`, 0.21000851017535277`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{51.30538313760856, 
-             59.02475982092205}, {-48.873377761310564`, -42.2889362177835}}], 
+             59.02475982092205}, {-49.87337776131059, -43.28893621778353}}], 
            "\"Chad\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Chad", "Tooltip"]& ], StatusArea[#, 1.0468179*^7]& , 
          TagBoxNote -> "1.0468179*^7"], 
@@ -4219,7 +4226,7 @@ Cell[BoxData[
                      0.20991847409653525`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{217.42504789595304`, 225.13865185857756`}, {
-             72.88687650177201, 79.4666908451668}}], "\"Belgium\"", 
+             71.88687650177198, 78.46669084516677}}], "\"Belgium\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Belgium", "Tooltip"]& ], 
          StatusArea[#, 1.0430281*^7]& , TagBoxNote -> "1.0430281*^7"], 
@@ -4257,7 +4264,7 @@ Cell[BoxData[
                     0.2094044209479467}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{164.03026229685608`, 171.71090741359293`}, {
-             63.13546658626316, 69.68886233359748}}], "\"Tunisia\"", 
+             62.135466586263135`, 68.68886233359746}}], "\"Tunisia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Tunisia", "Tooltip"]& ], 
          StatusArea[#, 1.0215222*^7]& , TagBoxNote -> "1.0215222*^7"], 
@@ -4295,7 +4302,7 @@ Cell[BoxData[
                      0.20934127068291913`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{197.00776943149765`, 204.68436562866555`}, {
-             84.46507339028595, 91.0152236729296}}], "\"Czech Republic\"", 
+             83.46507339028592, 90.01522367292957}}], "\"Czech Republic\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Czech Republic", "Tooltip"]& ], 
          StatusArea[#, 1.0188957*^7]& , TagBoxNote -> "1.0188957*^7"], 
@@ -4328,12 +4335,11 @@ Cell[BoxData[
                   System`BarFunctionDump`mouseover, {
                    "Highlight" -> "Post", "Post" -> {
                     Thickness[0.01], 
-                    
                     Circle[{0.8482663619999999, 1.3}, {0.0254412930408817, 
                     0.20902622851349845`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{191.7070191800669, 199.36341624736164`}, {
-             81.13264120360311, 87.6666006082436}}], "\"Hungary\"", 
+             80.13264120360309, 86.66660060824357}}], "\"Hungary\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Hungary", "Tooltip"]& ], 
          StatusArea[#, 1.0058432*^7]& , TagBoxNote -> "1.0058432*^7"], 
@@ -4371,7 +4377,7 @@ Cell[BoxData[
                      0.20825417864871315`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{172.92667913185113`, 180.5335757290468}, {
-             82.43729839734112, 88.93158004964744}}], "\"Belarus\"", 
+             81.4372983973411, 87.93158004964741}}], "\"Belarus\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Belarus", "Tooltip"]& ], 
          StatusArea[#, 9.742122*^6]& , TagBoxNote -> "9.742122*^6"], 
@@ -4409,7 +4415,7 @@ Cell[BoxData[
                      0.2079395563052004}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{169.62405842583973`, 177.2107828105684}, {
-             38.76156025093072, 45.239672601234545`}}], 
+             37.76156025093069, 44.23967260123452}}], 
            "\"Dominican Republic\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Dominican Republic", "Tooltip"]& ], 
          StatusArea[#, 9.61467*^6]& , TagBoxNote -> "9.61467*^6"], 
@@ -4447,8 +4453,8 @@ Cell[BoxData[
                      0.20756551858852162`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{78.80150493875712, 
-             86.36424765642656}, {-40.1166730377274, -33.657783507817626`}}], 
-           "\"Rwanda\"", LabelStyle -> "TextStyling"], 
+             86.36424765642656}, {-41.11667303772743, -34.657783507817655`}}],
+            "\"Rwanda\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Rwanda", "Tooltip"]& ], StatusArea[#, 9.464241*^6]& ,
           TagBoxNote -> "9.464241*^6"], 
         StyleBox["9.464241`*^6", {
@@ -4485,7 +4491,7 @@ Cell[BoxData[
                     0.207289129571732}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{145.86516351403404`, 153.41018537339454`}, {
-             16.936362455852862`, 23.381047598900768`}}], "\"Bolivia\"", 
+             15.936362455852834`, 22.38104759890074}}], "\"Bolivia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Bolivia", "Tooltip"]& ], 
          StatusArea[#, 9.353846*^6]& , TagBoxNote -> "9.353846*^6"], 
@@ -4523,8 +4529,8 @@ Cell[BoxData[
                     0.2068539381516427}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{81.16610087385493, 
-             88.68322015741033}, {-37.01482404396264, -30.59250457724195}}], 
-           "\"Guinea\"", LabelStyle -> "TextStyling"], 
+             88.68322015741033}, {-38.01482404396266, -31.592504577241975`}}],
+            "\"Guinea\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Guinea", "Tooltip"]& ], StatusArea[#, 9.181335*^6]& ,
           TagBoxNote -> "9.181335*^6"], 
         StyleBox["9.181335`*^6", {
@@ -4561,7 +4567,7 @@ Cell[BoxData[
                     0.20659174488780557`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{220.60905911151434`, 228.1093677065265}, {
-             72.20147036372894, 78.61031500212476}}], "\"Sweden\"", 
+             71.20147036372892, 77.61031500212474}}], "\"Sweden\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Sweden", "Tooltip"]& ], StatusArea[#, 9.078176*^6]& ,
           TagBoxNote -> "9.078176*^6"], 
@@ -4599,7 +4605,7 @@ Cell[BoxData[
                     0.025045287240368957`, 0.20577263606371105`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{75.94395108609584, 
-             83.3917419957817}, {-36.11336205342634, -29.746613655881745`}}], 
+             83.3917419957817}, {-37.11336205342637, -30.746613655881774`}}], 
            "\"Benin\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Benin", "Tooltip"]& ], StatusArea[#, 8.759655*^6]& , 
          TagBoxNote -> "8.759655*^6"], 
@@ -4637,7 +4643,7 @@ Cell[BoxData[
                     0.02493245491052463, 0.2048456031364198}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{163.56500526836058`, 170.95335886992518`}, {
-             61.453865994278225`, 67.77297163638382}}], "\"Azerbaijan\"", 
+             60.453865994278196`, 66.77297163638379}}], "\"Azerbaijan\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Azerbaijan", "Tooltip"]& ], 
          StatusArea[#, 8.406028*^6]& , TagBoxNote -> "8.406028*^6"], 
@@ -4675,7 +4681,7 @@ Cell[BoxData[
                     0.20463696751326516`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{212.12421448554707`, 219.4991912809018}, {
-             78.67579262713524, 84.98417591442775}}], "\"Austria\"", 
+             77.67579262713521, 83.98417591442772}}], "\"Austria\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Austria", "Tooltip"]& ], 
          StatusArea[#, 8.327446*^6]& , TagBoxNote -> "8.327446*^6"], 
@@ -4713,8 +4719,8 @@ Cell[BoxData[
                     0.02485682326673753, 0.2042242118717667}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{65.53443293449762, 
-             72.8829456383187}, {-60.073979350347706`, \
--53.786808703410316`}}], "\"Burundi\"", LabelStyle -> "TextStyling"], 
+             72.8829456383187}, {-61.073979350347734`, \
+-54.786808703410344`}}], "\"Burundi\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Burundi", "Tooltip"]& ], StatusArea[#, 8.17307*^6]& ,
           TagBoxNote -> "8.17307*^6"], 
         StyleBox["8.17307`*^6", {
@@ -4751,7 +4757,7 @@ Cell[BoxData[
                     0.2029138426791594}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{179.54375586225936`, 186.80825340851615`}, {
-             83.60238028091118, 89.82220747419088}}], "\"Bulgaria\"", 
+             82.60238028091115, 88.82220747419085}}], "\"Bulgaria\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Bulgaria", "Tooltip"]& ], 
          StatusArea[#, 7.692546*^6]& , TagBoxNote -> "7.692546*^6"], 
@@ -4789,7 +4795,7 @@ Cell[BoxData[
                     0.2022503673611184}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{214.48183679398724`, 221.70379519654338`}, {
-             78.73711957897916, 84.92284896258384}}], "\"Switzerland\"", 
+             77.73711957897913, 83.92284896258381}}], "\"Switzerland\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Switzerland", "Tooltip"]& ], 
          StatusArea[#, 7.454795*^6]& , TagBoxNote -> "7.454795*^6"], 
@@ -4827,7 +4833,7 @@ Cell[BoxData[
                     0.2008600413644132}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{145.04224328966876`, 152.1750600531068}, {
-             19.080186870792947`, 25.194463602079153`}}], "\"Honduras\"", 
+             18.080186870792918`, 24.194463602079125`}}], "\"Honduras\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Honduras", "Tooltip"]& ], 
          StatusArea[#, 6.968687*^6]& , TagBoxNote -> "6.968687*^6"], 
@@ -4860,12 +4866,11 @@ Cell[BoxData[
                   System`BarFunctionDump`mouseover, {
                    "Highlight" -> "Post", "Post" -> {
                     Thickness[0.01], 
-                    
                     Circle[{0.9184558409999999, 2.89}, {0.024390842747324764`,
                      0.20039570557780179`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{210.47074423032498`, 217.57378980828724`}, {
-             40.49719178400749, 46.587605030328014`}}], "\"Israel\"", 
+             39.49719178400746, 45.587605030327985`}}], "\"Israel\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Israel", "Tooltip"]& ], StatusArea[#, 6.809989*^6]& ,
           TagBoxNote -> "6.809989*^6"], 
@@ -4903,7 +4908,7 @@ Cell[BoxData[
                     0.024373738080904022`, 0.20025517325870318`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{156.14188385483163`, 163.23591911341325`}, {
-             40.68067751842319, 46.76386842483217}}], "\"El Salvador\"", 
+             39.68067751842316, 45.76386842483214}}], "\"El Salvador\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "El Salvador", "Tooltip"]& ], 
          StatusArea[#, 6.762319*^6]& , TagBoxNote -> "6.762319*^6"], 
@@ -4941,7 +4946,7 @@ Cell[BoxData[
                     0.024329511322421653`, 0.19989180522901656`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{134.7004092956678, 141.77114698098518`}, {
-             16.99796498042646, 23.062481410812996`}}], "\"Tajikistan\"", 
+             15.997964980426428`, 22.06248141081297}}], "\"Tajikistan\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Tajikistan", "Tooltip"]& ], 
          StatusArea[#, 6.639837*^6]& , TagBoxNote -> "6.639837*^6"], 
@@ -4964,7 +4969,6 @@ Cell[BoxData[
                 Opacity[0.66]}], {}, {}], 
              DynamicBox[
               Typeset`ToBoxes[{
-                
                 Disk[{0.47756720999999996`, 5.367000000000001}, {
                  0.009542045040331515, 0.07839765391961029}], 
                 If[
@@ -4979,7 +4983,7 @@ Cell[BoxData[
                     0.02424556277137894, 0.19920208206968532`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{94.3843424279486, 
-             101.41085807245956`}, {-23.12203588150622, -17.09296620908615}}],
+             101.41085807245956`}, {-24.12203588150625, -18.09296620908618}}],
             "\"Togo\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Togo", "Tooltip"]& ], StatusArea[#, 6.410428*^6]& , 
          TagBoxNote -> "6.410428*^6"], 
@@ -5018,7 +5022,7 @@ Cell[BoxData[
                     0.198563707723367}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{101.98950706505686`, 108.97509293069824`}, {
-             9.528753285867777, 15.525015156143164`}}], 
+             8.528753285867749, 14.525015156143136`}}], 
            "\"Papua New Guinea\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Papua New Guinea", "Tooltip"]& ], 
          StatusArea[#, 6.201692*^6]& , TagBoxNote -> "6.201692*^6"], 
@@ -5056,7 +5060,7 @@ Cell[BoxData[
                     0.024097522679635646`, 0.19798578138889117`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{164.03034143129634`, 170.97887318094857`}, {
-             15.299589955400375`, 21.266150612046115`}}], "\"Paraguay\"", 
+             14.299589955400346`, 20.266150612046086`}}], "\"Paraguay\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Paraguay", "Tooltip"]& ], 
          StatusArea[#, 6.015701*^6]& , TagBoxNote -> "6.015701*^6"], 
@@ -5094,7 +5098,7 @@ Cell[BoxData[
                     0.023998784317526816`, 0.19717454481345403`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{119.4834812178142, 126.38000001638983`}, {
-             22.669596564146218`, 28.59446555631175}}], "\"Lao\"", LabelStyle -> 
+             21.66959656414619, 27.59446555631172}}], "\"Lao\"", LabelStyle -> 
            "TextStyling"], Annotation[#, "Lao", "Tooltip"]& ], 
          StatusArea[#, 5.759402*^6]& , TagBoxNote -> "5.759402*^6"], 
         StyleBox["5.759402`*^6", {
@@ -5131,8 +5135,8 @@ Cell[BoxData[
                     0.19712103994114066`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{51.868672836240016`, 
-             58.76176113575994}, {-52.182543736735674`, -46.26042450617124}}],
-            "\"Sierra Leone\"", LabelStyle -> "TextStyling"], 
+             58.76176113575994}, {-53.1825437367357, -47.26042450617127}}], 
+           "\"Sierra Leone\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Sierra Leone", "Tooltip"]& ], 
          StatusArea[#, 5.742694*^6]& , TagBoxNote -> "5.742694*^6"], 
         StyleBox["5.742694`*^6", {
@@ -5169,7 +5173,7 @@ Cell[BoxData[
                     0.023986913825639982`, 0.19707701658854265`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{165.95973703222833`, 172.8500027463839}, {
-             24.162491933525416`, 30.0823486836971}}], "\"Jordan\"", 
+             23.162491933525388`, 29.08234868369707}}], "\"Jordan\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Jordan", "Tooltip"]& ], StatusArea[#, 5.728965*^6]& ,
           TagBoxNote -> "5.728965*^6"], 
@@ -5207,7 +5211,7 @@ Cell[BoxData[
                     0.1964407125323308}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{147.73635275802394`, 154.58582143128214`}, {
-             30.063310530139596`, 35.95046587603265}}], "\"Nicaragua\"", 
+             29.063310530139567`, 34.950465876032624`}}], "\"Nicaragua\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Nicaragua", "Tooltip"]& ], 
          StatusArea[#, 5.532364*^6]& , TagBoxNote -> "5.532364*^6"], 
@@ -5245,7 +5249,7 @@ Cell[BoxData[
                      0.19610503951637698`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{214.34984890944116`, 221.1777956929262}, {
-             70.67219494217325, 76.54209913448183}}], "\"Denmark\"", 
+             69.67219494217322, 75.5420991344818}}], "\"Denmark\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Denmark", "Tooltip"]& ], 
          StatusArea[#, 5.430033*^6]& , TagBoxNote -> "5.430033*^6"], 
@@ -5283,7 +5287,7 @@ Cell[BoxData[
                      0.19596663806985853`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{189.7350545905748, 196.5541276769354}, {
-             84.5517891862126, 90.41458054997457}}], "\"Slovak Republic\"", 
+             83.55178918621257, 89.41458054997454}}], "\"Slovak Republic\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Slovak Republic", "Tooltip"]& ], 
          StatusArea[#, 5.388119*^6]& , TagBoxNote -> "5.388119*^6"], 
@@ -5321,7 +5325,7 @@ Cell[BoxData[
                     0.02380037086155932, 0.19554437545372122`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{216.57106799615536`, 223.36306744523236`}, {
-             70.68660197132733, 76.52769210532776}}], "\"Finland\"", 
+             69.6866019713273, 75.52769210532773}}], "\"Finland\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Finland", "Tooltip"]& ], 
          StatusArea[#, 5.261243*^6]& , TagBoxNote -> "5.261243*^6"], 
@@ -5359,8 +5363,8 @@ Cell[BoxData[
                     0.1955356123933238}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{151.54997509533345`, 158.34141269519714`}, {
-             50.64366139603113, 56.484301172410895`}}], "\"Kyrgyz Republic\"",
-            LabelStyle -> "TextStyling"], 
+             49.6436613960311, 55.484301172410866`}}], "\"Kyrgyz Republic\"", 
+           LabelStyle -> "TextStyling"], 
           Annotation[#, "Kyrgyz Republic", "Tooltip"]& ], 
          StatusArea[#, 5.258626*^6]& , TagBoxNote -> "5.258626*^6"], 
         StyleBox["5.258626`*^6", {
@@ -5397,7 +5401,7 @@ Cell[BoxData[
                     0.19350109005661836`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{219.20009953213642`, 225.86109243316963`}, {
-             69.86543052550354, 75.60151063925505}}], "\"Norway\"", 
+             68.86543052550351, 74.60151063925503}}], "\"Norway\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Norway", "Tooltip"]& ], StatusArea[#, 4.668658*^6]& ,
           TagBoxNote -> "4.668658*^6"], 
@@ -5435,7 +5439,7 @@ Cell[BoxData[
                      0.1930983037829192}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{187.81713046758944`, 194.4522984694718}, {
-             80.51407633864115, 86.22945616509206}}], "\"Croatia\"", 
+             79.51407633864112, 85.22945616509203}}], "\"Croatia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Croatia", "Tooltip"]& ], StatusArea[#, 4.55602*^6]& ,
           TagBoxNote -> "4.55602*^6"], 
@@ -5473,7 +5477,7 @@ Cell[BoxData[
                     0.023448402016846986`, 0.19265259161057086`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{159.54801906166267`, 166.1546099429904}, {
-             76.82525276730482, 82.51772622721984}}], "\"Georgia\"", 
+             75.82525276730479, 81.51772622721981}}], "\"Georgia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Georgia", "Tooltip"]& ], 
          StatusArea[#, 4.432981*^6]& , TagBoxNote -> "4.432981*^6"], 
@@ -5511,7 +5515,7 @@ Cell[BoxData[
                      0.19252756558655187`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{186.13272955436787`, 192.73130431232605`}, {
-             61.51343113637598, 67.19947916725769}}], "\"Costa Rica\"", 
+             60.51343113637595, 66.19947916725766}}], "\"Costa Rica\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Costa Rica", "Tooltip"]& ], 
          StatusArea[#, 4.39877*^6]& , TagBoxNote -> "4.39877*^6"], 
@@ -5549,7 +5553,7 @@ Cell[BoxData[
                     0.023373019090739282`, 0.19203324381589398`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{62.10742905228197, 
-             68.67431005424864}, {-12.4280089496925, -6.767365465439402}}], 
+             68.67431005424864}, {-13.42800894969253, -7.767365465439431}}], 
            "\"Central African Republic\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Central African Republic", "Tooltip"]& ], 
          StatusArea[#, 4.264806*^6]& , TagBoxNote -> "4.264806*^6"], 
@@ -5587,7 +5591,7 @@ Cell[BoxData[
                     0.023365620763867927`, 0.19197245899804866`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{193.68985416082486`, 200.2528379053792}, {
-             49.861545035094196`, 55.51906462145138}}], 
+             48.86154503509417, 54.51906462145135}}], 
            "\"United Arab Emirates\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "United Arab Emirates", "Tooltip"]& ], 
          StatusArea[#, 4.248476*^6]& , TagBoxNote -> "4.248476*^6"], 
@@ -5625,7 +5629,7 @@ Cell[BoxData[
                     0.02335323974657975, 0.19187073628510515`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{213.82537710562332`, 220.38183883347884`}, {
-             64.35690956139234, 70.00920133955341}}], "\"Ireland\"", 
+             63.356909561392314`, 69.00920133955339}}], "\"Ireland\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Ireland", "Tooltip"]& ], 
          StatusArea[#, 4.221218*^6]& , TagBoxNote -> "4.221218*^6"], 
@@ -5664,7 +5668,7 @@ Cell[BoxData[
                     0.19156411367089982`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{212.38320089793942`, 218.92000332108097`}, {
-             66.1635342930179, 71.80006789712647}}], "\"New Zealand\"", 
+             65.16353429301788, 70.80006789712644}}], "\"New Zealand\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "New Zealand", "Tooltip"]& ], 
          StatusArea[#, 4.139585*^6]& , TagBoxNote -> "4.139585*^6"], 
@@ -5702,7 +5706,7 @@ Cell[BoxData[
                      0.19038349676514027`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{150.25371581756116`, 156.71482223386735`}, {
-             82.12561899542852, 87.70147747047494}}], "\"Moldova\"", 
+             81.1256189954285, 86.70147747047491}}], "\"Moldova\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Moldova", "Tooltip"]& ], 
          StatusArea[#, 3.832709*^6]& , TagBoxNote -> "3.832709*^6"], 
@@ -5740,8 +5744,8 @@ Cell[BoxData[
                     0.18981557368246443`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{103.25672116683155`, 
-             109.68141483202564`}, {-14.692261304009996`, \
--9.145589948147308}}], "\"Congo, Rep.\"", LabelStyle -> "TextStyling"], 
+             109.68141483202564`}, {-15.692261304010025`, \
+-10.145589948147336`}}], "\"Congo, Rep.\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Congo, Rep.", "Tooltip"]& ], 
          StatusArea[#, 3.689299*^6]& , TagBoxNote -> "3.689299*^6"], 
         StyleBox["3.689299`*^6", {
@@ -5778,7 +5782,7 @@ Cell[BoxData[
                     0.1886691872574217}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{189.28308319205144`, 195.63427555954033`}, {
-             83.19752517463532, 88.68528059938163}}], "\"Lithuania\"", 
+             82.19752517463529, 87.6852805993816}}], "\"Lithuania\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Lithuania", "Tooltip"]& ], 
          StatusArea[#, 3.408148*^6]& , TagBoxNote -> "3.408148*^6"], 
@@ -5816,8 +5820,9 @@ Cell[BoxData[
                     0.02292438336014894, 0.18834724269201136`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{186.64908658128195`, 192.9796372673711}, {
-             59.822104600342, 65.29331441409305}}], "\"Uruguay\"", LabelStyle -> 
-           "TextStyling"], Annotation[#, "Uruguay", "Tooltip"]& ], 
+             58.82210460034197, 64.29331441409302}}], "\"Uruguay\"", 
+           LabelStyle -> "TextStyling"], 
+          Annotation[#, "Uruguay", "Tooltip"]& ], 
          StatusArea[#, 3.331195*^6]& , TagBoxNote -> "3.331195*^6"], 
         StyleBox["3.331195`*^6", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
@@ -5853,7 +5858,7 @@ Cell[BoxData[
                     0.1881629423825228}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{177.47632455652345`, 183.79505871057856`}, {
-             45.69383895533306, 51.155577072541504`}}], "\"Panama\"", 
+             44.69383895533303, 50.155577072541476`}}], "\"Panama\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Panama", "Tooltip"]& ], StatusArea[#, 3.287538*^6]& ,
           TagBoxNote -> "3.287538*^6"], 
@@ -5891,7 +5896,7 @@ Cell[BoxData[
                     0.022841938057351057`, 0.18766987025363674`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{173.57151113638213`, 179.85863165602598`}, {
-             56.3191084205305, 61.75550621361588}}], "\"Albania\"", 
+             55.31910842053047, 60.75550621361585}}], "\"Albania\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Albania", "Tooltip"]& ], 
          StatusArea[#, 3.172155*^6]& , TagBoxNote -> "3.172155*^6"], 
@@ -5929,8 +5934,8 @@ Cell[BoxData[
                     0.022773794038237632`, 0.18710999747955576`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{92.79421674900821, 
-             99.04544066821624}, {-33.706572578927386`, \
--28.298948177667942`}}], "\"Mauritania\"", LabelStyle -> "TextStyling"], 
+             99.04544066821624}, {-34.706572578927414`, -29.29894817766797}}],
+            "\"Mauritania\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Mauritania", "Tooltip"]& ], 
          StatusArea[#, 3.043639*^6]& , TagBoxNote -> "3.043639*^6"], 
         StyleBox["3.043639`*^6", {
@@ -5967,7 +5972,7 @@ Cell[BoxData[
                     0.18695951224599144`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{166.489868064738, 172.73144352709866`}, {
-             80.82599917303754, 86.2258897269127}}], "\"Armenia\"", 
+             79.82599917303752, 85.22588972691267}}], "\"Armenia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Armenia", "Tooltip"]& ], 
          StatusArea[#, 3.009549*^6]& , TagBoxNote -> "3.009549*^6"], 
@@ -6005,7 +6010,7 @@ Cell[BoxData[
                      0.1859169691678652}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{194.3856464516466, 200.56037859880234`}, {
-             50.37689824912774, 55.723209665257556`}}], "\"Kuwait\"", 
+             49.37689824912771, 54.72320966525753}}], "\"Kuwait\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Kuwait", "Tooltip"]& ], StatusArea[#, 2.77865*^6]& , 
          TagBoxNote -> "2.77865*^6"], 
@@ -6043,7 +6048,7 @@ Cell[BoxData[
                     0.022583372717497757`, 0.18554549168030804`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{154.75504443532392`, 160.90595906614547`}, {
-             52.36506407979855, 57.69228425270522}}], "\"Jamaica\"", 
+             51.36506407979852, 56.69228425270519}}], "\"Jamaica\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Jamaica", "Tooltip"]& ], 
          StatusArea[#, 2.698603*^6]& , TagBoxNote -> "2.698603*^6"], 
@@ -6076,12 +6081,11 @@ Cell[BoxData[
                   System`BarFunctionDump`mouseover, {
                    "Highlight" -> "Post", "Post" -> {
                     Thickness[0.01], 
-                    
                     Circle[{0.6729385429999999, 2.43}, {0.02252942785523891, 
                     0.18510227949421626`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{146.2947681611262, 152.41726595960844`}, {
-             52.71050578507221, 58.01494807256842}}], "\"Mongolia\"", 
+             51.71050578507218, 57.014948072568394`}}], "\"Mongolia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Mongolia", "Tooltip"]& ], 
          StatusArea[#, 2.604629*^6]& , TagBoxNote -> "2.604629*^6"], 
@@ -6119,7 +6123,7 @@ Cell[BoxData[
                     0.022495468681769142`, 0.18482327017097128`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{178.80935602387723`, 184.91396496142883`}, {
-             18.001884370091233`, 23.291987606016317`}}], "\"Oman\"", 
+             17.001884370091204`, 22.29198760601629}}], "\"Oman\"", 
            LabelStyle -> "TextStyling"], Annotation[#, "Oman", "Tooltip"]& ], 
          StatusArea[#, 2.546325*^6]& , TagBoxNote -> "2.546325*^6"], 
         StyleBox["2.546325`*^6", {
@@ -6156,10 +6160,9 @@ Cell[BoxData[
                     0.1835523579606741}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{185.33635877678944`, 191.35948236639416`}, {
-             83.32900909480222, 88.55379667921473}}], "\"Latvia\"", 
-           LabelStyle -> "TextStyling"], 
-          Annotation[#, "Latvia", "Tooltip"]& ], StatusArea[#, 2.289095*^6]& ,
-          TagBoxNote -> "2.289095*^6"], 
+             82.32900909480219, 87.5537966792147}}], "\"Latvia\"", LabelStyle -> 
+           "TextStyling"], Annotation[#, "Latvia", "Tooltip"]& ], 
+         StatusArea[#, 2.289095*^6]& , TagBoxNote -> "2.289095*^6"], 
         StyleBox["2.289095`*^6", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
         Style[2.289095*^6, {
@@ -6194,7 +6197,7 @@ Cell[BoxData[
                     0.18228679547202858`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{130.02143002280187`, 135.96341126527966`}, {
-             13.69868027345519, 18.858427143170005`}}], "\"Namibia\"", 
+             12.698680273455162`, 17.858427143169976`}}], "\"Namibia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Namibia", "Tooltip"]& ], 
          StatusArea[#, 2.046555*^6]& , TagBoxNote -> "2.046555*^6"], 
@@ -6232,7 +6235,7 @@ Cell[BoxData[
                      0.18223208421711184`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{175.88234371877422`, 181.82081711420534`}, {
-             70.25778849337746, 75.41472360219251}}], "\"Macedonia\"", 
+             69.25778849337743, 74.41472360219248}}], "\"Macedonia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Macedonia", "Tooltip"]& ], 
          StatusArea[#, 2.036376*^6]& , TagBoxNote -> "2.036376*^6"], 
@@ -6270,7 +6273,7 @@ Cell[BoxData[
                      0.182039952323597}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{206.41065415694976`, 212.3368088933359}, {
-             84.13876341466705, 89.285824340435}}], "\"Slovenia\"", 
+             83.13876341466703, 88.28582434043497}}], "\"Slovenia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Slovenia", "Tooltip"]& ], 
          StatusArea[#, 2.000831*^6]& , TagBoxNote -> "2.000831*^6"], 
@@ -6308,7 +6311,7 @@ Cell[BoxData[
                     0.18200766250346495`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{98.1602330094747, 104.08431746342329`}, {
-             21.466155614604588`, 26.61155707827746}}], "\"Lesotho\"", 
+             20.46615561460456, 25.611557078277432`}}], "\"Lesotho\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Lesotho", "Tooltip"]& ], 
          StatusArea[#, 1.994888*^6]& , TagBoxNote -> "1.994888*^6"], 
@@ -6346,7 +6349,7 @@ Cell[BoxData[
                     0.1812510540538303}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{117.00900599050934`, 122.88458001055183`}, {
-             32.92048072889225, 38.026998016752344`}}], "\"Botswana\"", 
+             31.920480728892223`, 37.026998016752316`}}], "\"Botswana\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Botswana", "Tooltip"]& ], 
          StatusArea[#, 1.858163*^6]& , TagBoxNote -> "1.858163*^6"], 
@@ -6384,7 +6387,7 @@ Cell[BoxData[
                      0.17809359178595113`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{189.28124492617079`, 194.9543762366047}, {
-             80.12875192457021, 85.07299859807789}}], "\"Estonia\"", 
+             79.12875192457018, 84.07299859807786}}], "\"Estonia\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Estonia", "Tooltip"]& ], 
          StatusArea[#, 1.339972*^6]& , TagBoxNote -> "1.339972*^6"], 
@@ -6422,7 +6425,7 @@ Cell[BoxData[
                     0.17801686654208243`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{177.95351163029633`, 183.62172365272406`}, {
-             73.9635955602046, 78.90389911376258}}], 
+             72.96359556020457, 77.90389911376255}}], 
            "\"Trinidad and Tobago\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Trinidad and Tobago", "Tooltip"]& ], 
          StatusArea[#, 1.328432*^6]& , TagBoxNote -> "1.328432*^6"], 
@@ -6460,7 +6463,7 @@ Cell[BoxData[
                     0.17789912549074222`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{138.2106829560108, 143.87134593574436`}, {
-             12.115467269529812`, 17.049719788708114`}}], "\"Gabon\"", 
+             11.115467269529784`, 16.049719788708085`}}], "\"Gabon\"", 
            LabelStyle -> "TextStyling"], Annotation[#, "Gabon", "Tooltip"]& ],
           StatusArea[#, 1.31082*^6]& , TagBoxNote -> "1.31082*^6"], 
         StyleBox["1.31082`*^6", {
@@ -6497,7 +6500,7 @@ Cell[BoxData[
                     0.17749679941350932`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{174.47675984922168`, 180.11162743559467`}, {
-             64.98323117267121, 69.8968070553029}}], "\"Mauritius\"", 
+             63.98323117267118, 68.89680705530287}}], "\"Mauritius\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Mauritius", "Tooltip"]& ], 
          StatusArea[#, 1.251526*^6]& , TagBoxNote -> "1.251526*^6"], 
@@ -6535,7 +6538,7 @@ Cell[BoxData[
                     0.021502783624852122`, 0.17666734770210762`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{112.34150696948076`, 117.92319372970294`}, {
-             7.4446844405405255`, 12.315632533078237`}}], "\"Swaziland\"", 
+             6.444684440540497, 11.315632533078208`}}], "\"Swaziland\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Swaziland", "Tooltip"]& ], 
          StatusArea[#, 1.133614*^6]& , TagBoxNote -> "1.133614*^6"], 
@@ -6558,6 +6561,7 @@ Cell[BoxData[
                 Opacity[0.66]}], {}, {}], 
              DynamicBox[
               Typeset`ToBoxes[{
+                
                 Disk[{0.890040486, 1.4899999999999998`}, {
                  0.006445453051428129, 0.05295598538312907}], 
                 If[
@@ -6572,7 +6576,7 @@ Cell[BoxData[
                     0.021148970782475556`, 0.1737604135332041}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{203.84035704559733`, 209.23566386525982`}, {
-             77.15653489824858, 81.87808770005908}}], "\"Cyprus\"", 
+             76.15653489824855, 80.87808770005906}}], "\"Cyprus\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Cyprus", "Tooltip"]& ], StatusArea[#, 766415.]& , 
          TagBoxNote -> "766415."], 
@@ -6610,7 +6614,7 @@ Cell[BoxData[
                     0.02111933867973657, 0.17351695551915974`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{189.74741068980035`, 195.1271080434241}, {
-             52.006048226529806`, 56.71508905570017}}], "\"Bahrain\"", 
+             51.00604822652978, 55.71508905570014}}], "\"Bahrain\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Bahrain", "Tooltip"]& ], StatusArea[#, 738913.]& , 
          TagBoxNote -> "738913."], 
@@ -6648,7 +6652,7 @@ Cell[BoxData[
                     0.1713745134781594}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{155.5679414731041, 160.81027478714077`}, {
-             18.604432212555, 23.20336709058091}}], "\"Cape Verde\"", 
+             17.604432212554972`, 22.203367090580883`}}], "\"Cape Verde\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Cape Verde", "Tooltip"]& ], StatusArea[#, 518562.]& ,
           TagBoxNote -> "518562."], 
@@ -6686,8 +6690,8 @@ Cell[BoxData[
                     0.17112728732011812`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{131.13607216937834`, 
-             136.3625544204176}, {-35.83981527217237, -31.253586022003823`}}],
-            "\"Equatorial Guinea\"", LabelStyle -> "TextStyling"], 
+             136.3625544204176}, {-36.8398152721724, -32.25358602200385}}], 
+           "\"Equatorial Guinea\"", LabelStyle -> "TextStyling"], 
           Annotation[#, "Equatorial Guinea", "Tooltip"]& ], 
          StatusArea[#, 495639.]& , TagBoxNote -> "495639."], 
         StyleBox["495639.`", {
@@ -6719,11 +6723,12 @@ Cell[BoxData[
                   System`BarFunctionDump`mouseover, {
                    "Highlight" -> "Post", "Post" -> {
                     Thickness[0.01], 
+                    
                     Circle[{0.9401985739999998, 1.63}, {0.020782152530385994`,
                      0.17074662662933154`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{217.14799868007623`, 222.35007462784208`}, {
-             73.63648698143699, 78.20315303847346}}], "\"Luxembourg\"", 
+             72.63648698143696, 77.20315303847343}}], "\"Luxembourg\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Luxembourg", "Tooltip"]& ], StatusArea[#, 461357.]& ,
           TagBoxNote -> "461357."], 
@@ -6761,7 +6766,7 @@ Cell[BoxData[
                     0.1706776103077931}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{166.0839337107179, 171.28158463295563`}, {
-             48.66139235654056, 53.22451147621207}}], "\"Suriname\"", 
+             47.66139235654053, 52.224511476212044`}}], "\"Suriname\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Suriname", "Tooltip"]& ], StatusArea[#, 455273.]& , 
          TagBoxNote -> "455273."], 
@@ -6799,7 +6804,7 @@ Cell[BoxData[
                      0.17008564446622715`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{196.26401265253043`, 201.4237093068165}, {
-             78.02185410099301, 82.55455047839972}}], "\"Malta\"", LabelStyle -> 
+             77.02185410099298, 81.55455047839969}}], "\"Malta\"", LabelStyle -> 
            "TextStyling"], Annotation[#, "Malta", "Tooltip"]& ], 
          StatusArea[#, 404748.]& , TagBoxNote -> "404748."], 
         StyleBox["404748.`", {
@@ -6836,7 +6841,7 @@ Cell[BoxData[
                     0.020533618283154458`, 0.1687046637357093}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{215.92751756996952`, 220.9986717628468}, {
-             65.9800481026019, 70.44177210645734}}], "\"Iceland\"", 
+             64.98004810260187, 69.44177210645731}}], "\"Iceland\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Iceland", "Tooltip"]& ], StatusArea[#, 298429.]& , 
          TagBoxNote -> "298429."], 
@@ -6874,7 +6879,7 @@ Cell[BoxData[
                     0.020504482873504187`, 0.16846528656311038`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{158.19101114472352`, 163.24681751731728`}, {
-             33.42890305887779, 37.87832481568669}}], "\"Belize\"", 
+             32.428903058877765`, 36.87832481568666}}], "\"Belize\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Belize", "Tooltip"]& ], StatusArea[#, 281644.]& , 
          TagBoxNote -> "281644."], 
@@ -6913,7 +6918,7 @@ Cell[BoxData[
                     0.020390750840756904`, 0.16753086165679226`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{140.44613665424671`, 145.44203177726348`}, {
-             8.887188151642242, 13.288587259009859`}}], "\"Vanuatu\"", 
+             7.8871881516422135`, 12.28858725900983}}], "\"Vanuatu\"", 
            LabelStyle -> "TextStyling"], 
           Annotation[#, "Vanuatu", "Tooltip"]& ], StatusArea[#, 220772.]& , 
          TagBoxNote -> "220772."], 
@@ -6952,7 +6957,7 @@ Cell[BoxData[
                     0.16692689765955743`}]}}, "Post"]], {}]}, StandardForm, 
                Graphics]]}, 
             ImageSizeCache -> {{168.2488037951329, 173.2059753807854}, {
-             12.834251883545294`, 17.204611630640883`}}], "\"Samoa\"", 
+             11.834251883545265`, 16.204611630640855`}}], "\"Samoa\"", 
            LabelStyle -> "TextStyling"], Annotation[#, "Samoa", "Tooltip"]& ],
           StatusArea[#, 185366.]& , TagBoxNote -> "185366."], 
         StyleBox["185366.`", {
@@ -6990,9 +6995,9 @@ Cell[BoxData[
                     0.020102979147239835`, 0.16516652303327323`}]}}, 
                    "Post"]], {}]}, StandardForm, Graphics]]}, 
             ImageSizeCache -> {{180.03169264323714`, 184.87599668557914`}, {
-             24.82829746826769, 29.108186752737797`}}], "\"Tonga\"", 
-           LabelStyle -> "TextStyling"], Annotation[#, "Tonga", "Tooltip"]& ],
-          StatusArea[#, 99811.]& , TagBoxNote -> "99811."], 
+             23.82829746826766, 28.10818675273777}}], "\"Tonga\"", LabelStyle -> 
+           "TextStyling"], Annotation[#, "Tonga", "Tooltip"]& ], 
+         StatusArea[#, 99811.]& , TagBoxNote -> "99811."], 
         StyleBox["99811.`", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
         Style[99811., {
@@ -7023,7 +7028,7 @@ Cell[BoxData[
                     0.16032942815007503`}]}}, "Post"]], {}]}, StandardForm, 
              Graphics]]}, 
           ImageSizeCache -> {{-30.154840409548985`, -25.62066979453266}, {
-           115.78924828272774`, 119.82054604280738`}}], StatusArea[#, 1]& , 
+           114.78924828272771`, 118.82054604280735`}}], StatusArea[#, 1]& , 
          TagBoxNote -> "1"], 
         StyleBox["1", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
@@ -7055,7 +7060,7 @@ Cell[BoxData[
                     0.16032942815007503`}]}}, "Post"]], {}]}, StandardForm, 
              Graphics]]}, 
           ImageSizeCache -> {{-30.154840409548985`, -25.62066979453266}, {
-           115.78924828272774`, 119.82054604280738`}}], StatusArea[#, 1]& , 
+           114.78924828272771`, 118.82054604280735`}}], StatusArea[#, 1]& , 
          TagBoxNote -> "1"], 
         StyleBox["1", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
@@ -7087,7 +7092,7 @@ Cell[BoxData[
                     0.16032942815007503`}]}}, "Post"]], {}]}, StandardForm, 
              Graphics]]}, 
           ImageSizeCache -> {{-30.154840409548985`, -25.62066979453266}, {
-           115.78924828272774`, 119.82054604280738`}}], StatusArea[#, 1]& , 
+           114.78924828272771`, 118.82054604280735`}}], StatusArea[#, 1]& , 
          TagBoxNote -> "1"], 
         StyleBox["1", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
@@ -7119,7 +7124,7 @@ Cell[BoxData[
                     0.16032942815007503`}]}}, "Post"]], {}]}, StandardForm, 
              Graphics]]}, 
           ImageSizeCache -> {{-30.154840409548985`, -25.62066979453266}, {
-           115.78924828272774`, 119.82054604280738`}}], StatusArea[#, 1]& , 
+           114.78924828272771`, 118.82054604280735`}}], StatusArea[#, 1]& , 
          TagBoxNote -> "1"], 
         StyleBox["1", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
@@ -7152,7 +7157,7 @@ Cell[BoxData[
                     0.16032942815007503`}]}}, "Post"]], {}]}, StandardForm, 
              Graphics]]}, 
           ImageSizeCache -> {{-30.154840409548985`, -25.62066979453266}, {
-           115.78924828272774`, 119.82054604280738`}}], StatusArea[#, 1]& , 
+           114.78924828272771`, 118.82054604280735`}}], StatusArea[#, 1]& , 
          TagBoxNote -> "1"], 
         StyleBox["1", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
@@ -7184,7 +7189,7 @@ Cell[BoxData[
                     0.16032942815007503`}]}}, "Post"]], {}]}, StandardForm, 
              Graphics]]}, 
           ImageSizeCache -> {{-30.154840409548985`, -25.62066979453266}, {
-           115.78924828272774`, 119.82054604280738`}}], StatusArea[#, 1]& , 
+           114.78924828272771`, 118.82054604280735`}}], StatusArea[#, 1]& , 
          TagBoxNote -> "1"], 
         StyleBox["1", {
           GrayLevel[0]}, StripOnInput -> False]], Annotation[#, 
@@ -11805,7 +11810,8 @@ PrintingPageRange->{Automatic, Automatic},
 PrintingOptions->{"Magnification"->1.,
 "PaperOrientation"->"Portrait",
 "PaperSize"->{611.28, 789.57},
-"PostScriptOutputFile"->"/home/mark/FertilityAndDevelopment.pdf"},
+"PostScriptOutputFile"->"/home/mark/src/mathematica/FertilityAndDevelopment/\
+FertilityAndDevelopment.pdf"},
 ShowSelection->True,
 FrontEndVersion->"7.0 for Linux x86 (32-bit) (February 25, 2009)",
 StyleDefinitions->"Default.nb"
@@ -11824,168 +11830,168 @@ Notebook[{
 Cell[CellGroupData[{
 Cell[567, 22, 108, 1, 85, "Title"],
 Cell[678, 25, 375, 7, 71, "Text"],
-Cell[1056, 34, 418, 7, 111, "Text"],
+Cell[1056, 34, 726, 15, 111, "Text"],
 Cell[CellGroupData[{
-Cell[1499, 45, 104, 4, 85, "Subtitle"],
-Cell[1606, 51, 158, 2, 31, "Text"],
+Cell[1807, 53, 104, 4, 85, "Subtitle"],
+Cell[1914, 59, 158, 2, 31, "Text"],
 Cell[CellGroupData[{
-Cell[1789, 57, 764, 19, 99, "Input"],
-Cell[2556, 78, 1588, 31, 90, "Output"]
+Cell[2097, 65, 764, 19, 99, "Input"],
+Cell[2864, 86, 1588, 31, 90, "Output"]
 }, Open  ]],
-Cell[4159, 112, 281, 6, 31, "Text"],
+Cell[4467, 120, 281, 6, 31, "Text"],
 Cell[CellGroupData[{
-Cell[4465, 122, 1204, 34, 121, "Input"],
-Cell[5672, 158, 1018, 23, 43, "Output"]
+Cell[4773, 130, 1204, 34, 121, "Input"],
+Cell[5980, 166, 1018, 23, 43, "Output"]
 }, Open  ]],
-Cell[6705, 184, 453, 9, 51, "Text"],
-Cell[7161, 195, 1482, 37, 143, "Input"],
-Cell[8646, 234, 161, 2, 31, "Text"],
-Cell[8810, 238, 294, 6, 32, "Input"],
-Cell[9107, 246, 114, 1, 31, "Text"],
+Cell[7013, 192, 453, 9, 51, "Text"],
+Cell[7469, 203, 1482, 37, 143, "Input"],
+Cell[8954, 242, 161, 2, 31, "Text"],
+Cell[9118, 246, 294, 6, 32, "Input"],
+Cell[9415, 254, 114, 1, 31, "Text"],
 Cell[CellGroupData[{
-Cell[9246, 251, 741, 16, 32, "Input"],
-Cell[9990, 269, 1643, 29, 228, "Output"]
+Cell[9554, 259, 741, 16, 32, "Input"],
+Cell[10298, 277, 1643, 29, 228, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[11670, 303, 742, 16, 32, "Input"],
-Cell[12415, 321, 1199, 23, 228, "Output"]
+Cell[11978, 311, 742, 16, 32, "Input"],
+Cell[12723, 329, 1199, 23, 228, "Output"]
 }, Open  ]],
-Cell[13629, 347, 303, 6, 51, "Text"],
+Cell[13937, 355, 303, 6, 51, "Text"],
 Cell[CellGroupData[{
-Cell[13957, 357, 1105, 27, 99, "Input"],
-Cell[15065, 386, 12565, 214, 253, 4940, 88, "CachedBoxData", "BoxData", \
+Cell[14265, 365, 1105, 27, 99, "Input"],
+Cell[15373, 394, 12565, 214, 253, 4940, 88, "CachedBoxData", "BoxData", \
 "Output"]
 }, Open  ]],
-Cell[27645, 603, 294, 5, 51, "Text"],
+Cell[27953, 611, 294, 5, 51, "Text"],
 Cell[CellGroupData[{
-Cell[27964, 612, 2332, 64, 165, "Input"],
-Cell[30299, 678, 20259, 400, 381, "Output"]
+Cell[28272, 620, 2332, 64, 165, "Input"],
+Cell[30607, 686, 20259, 400, 381, "Output"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[50607, 1084, 237, 7, 85, "Subtitle"],
-Cell[50847, 1093, 303, 7, 51, "Text"],
-Cell[51153, 1102, 1877, 43, 187, "Input"],
-Cell[53033, 1147, 295, 7, 31, "Text"],
+Cell[50915, 1092, 237, 7, 85, "Subtitle"],
+Cell[51155, 1101, 303, 7, 51, "Text"],
+Cell[51461, 1110, 1877, 43, 187, "Input"],
+Cell[53341, 1155, 295, 7, 31, "Text"],
 Cell[CellGroupData[{
-Cell[53353, 1158, 565, 11, 32, "Input"],
-Cell[53921, 1171, 805, 11, 31, "Output"]
+Cell[53661, 1166, 565, 11, 32, "Input"],
+Cell[54229, 1179, 805, 11, 31, "Output"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[54775, 1188, 108, 4, 85, "Subtitle"],
-Cell[54886, 1194, 228, 6, 31, "Text"],
-Cell[55117, 1202, 594, 15, 77, "Input"],
-Cell[55714, 1219, 113, 1, 31, "Text"],
+Cell[55083, 1196, 108, 4, 85, "Subtitle"],
+Cell[55194, 1202, 228, 6, 31, "Text"],
+Cell[55425, 1210, 594, 15, 77, "Input"],
+Cell[56022, 1227, 113, 1, 31, "Text"],
 Cell[CellGroupData[{
-Cell[55852, 1224, 361, 8, 32, "Input"],
-Cell[56216, 1234, 513, 9, 31, "Output"]
+Cell[56160, 1232, 361, 8, 32, "Input"],
+Cell[56524, 1242, 513, 9, 31, "Output"]
 }, Open  ]],
-Cell[56744, 1246, 166, 2, 31, "Text"],
+Cell[57052, 1254, 166, 2, 31, "Text"],
 Cell[CellGroupData[{
-Cell[56935, 1252, 430, 11, 55, "Input"],
-Cell[57368, 1265, 650, 11, 31, "Output"]
+Cell[57243, 1260, 430, 11, 55, "Input"],
+Cell[57676, 1273, 650, 11, 31, "Output"]
 }, Open  ]],
-Cell[58033, 1279, 201, 4, 31, "Text"],
-Cell[58237, 1285, 445, 11, 55, "Input"],
-Cell[58685, 1298, 161, 2, 31, "Text"],
+Cell[58341, 1287, 201, 4, 31, "Text"],
+Cell[58545, 1293, 445, 11, 55, "Input"],
+Cell[58993, 1306, 161, 2, 31, "Text"],
 Cell[CellGroupData[{
-Cell[58871, 1304, 278, 6, 32, "Input"],
-Cell[59152, 1312, 497, 8, 31, "Output"]
+Cell[59179, 1312, 278, 6, 32, "Input"],
+Cell[59460, 1320, 497, 8, 31, "Output"]
 }, Open  ]],
-Cell[59664, 1323, 268, 6, 51, "Text"],
+Cell[59972, 1331, 268, 6, 51, "Text"],
 Cell[CellGroupData[{
-Cell[59957, 1333, 1240, 28, 99, "Input"],
-Cell[61200, 1363, 1475, 34, 31, "Output"]
+Cell[60265, 1341, 1240, 28, 99, "Input"],
+Cell[61508, 1371, 1475, 34, 31, "Output"]
 }, Open  ]],
-Cell[62690, 1400, 329, 8, 31, "Text"],
-Cell[63022, 1410, 497, 12, 55, "Input"],
-Cell[63522, 1424, 161, 2, 31, "Text"],
+Cell[62998, 1408, 329, 8, 31, "Text"],
+Cell[63330, 1418, 497, 12, 55, "Input"],
+Cell[63830, 1432, 161, 2, 31, "Text"],
 Cell[CellGroupData[{
-Cell[63708, 1430, 305, 7, 32, "Input"],
-Cell[64016, 1439, 466, 9, 33, "Output"]
+Cell[64016, 1438, 305, 7, 32, "Input"],
+Cell[64324, 1447, 466, 9, 33, "Output"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[64531, 1454, 182, 5, 85, "Subtitle"],
-Cell[64716, 1461, 273, 5, 51, "Text"],
-Cell[64992, 1468, 5159, 103, 429, "Input"],
-Cell[70154, 1573, 104, 1, 31, "Text"],
+Cell[64839, 1462, 182, 5, 85, "Subtitle"],
+Cell[65024, 1469, 273, 5, 51, "Text"],
+Cell[65300, 1476, 5159, 103, 429, "Input"],
+Cell[70462, 1581, 104, 1, 31, "Text"],
 Cell[CellGroupData[{
-Cell[70283, 1578, 184, 3, 32, "Input"],
-Cell[70470, 1583, 230452, 5708, 400, "Output"]
+Cell[70591, 1586, 184, 3, 32, "Input"],
+Cell[70778, 1591, 230426, 5705, 400, "Output"]
 }, Open  ]],
-Cell[300937, 7294, 263, 7, 31, "Text"],
-Cell[301203, 7303, 794, 14, 32, "Input"],
-Cell[302000, 7319, 419, 10, 51, "Text"],
+Cell[301219, 7299, 263, 7, 31, "Text"],
+Cell[301485, 7308, 794, 14, 32, "Input"],
+Cell[302282, 7324, 419, 10, 51, "Text"],
 Cell[CellGroupData[{
-Cell[302444, 7333, 848, 16, 55, "Input"],
-Cell[303295, 7351, 102, 1, 31, "Output"]
+Cell[302726, 7338, 848, 16, 55, "Input"],
+Cell[303577, 7356, 102, 1, 31, "Output"]
 }, Open  ]],
-Cell[303412, 7355, 511, 10, 51, "Text"],
+Cell[303694, 7360, 511, 10, 51, "Text"],
 Cell[CellGroupData[{
-Cell[303948, 7369, 1232, 26, 77, "Input"],
-Cell[305183, 7397, 110, 1, 31, "Output"]
+Cell[304230, 7374, 1232, 26, 77, "Input"],
+Cell[305465, 7402, 110, 1, 31, "Output"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[305342, 7404, 109, 4, 85, "Subtitle"],
-Cell[305454, 7410, 176, 4, 31, "Text"],
-Cell[305633, 7416, 160, 3, 32, "Input"],
-Cell[305796, 7421, 175, 4, 31, "Text"],
+Cell[305624, 7409, 109, 4, 85, "Subtitle"],
+Cell[305736, 7415, 176, 4, 31, "Text"],
+Cell[305915, 7421, 160, 3, 32, "Input"],
+Cell[306078, 7426, 175, 4, 31, "Text"],
 Cell[CellGroupData[{
-Cell[305996, 7429, 813, 19, 55, "Input"],
-Cell[306812, 7450, 1123, 17, 92, "Output"]
+Cell[306278, 7434, 813, 19, 55, "Input"],
+Cell[307094, 7455, 1123, 17, 92, "Output"]
 }, Open  ]],
-Cell[307950, 7470, 188, 4, 31, "Text"],
-Cell[308141, 7476, 890, 21, 121, "Input"],
-Cell[309034, 7499, 164, 3, 31, "Text"],
+Cell[308232, 7475, 188, 4, 31, "Text"],
+Cell[308423, 7481, 890, 21, 121, "Input"],
+Cell[309316, 7504, 164, 3, 31, "Text"],
 Cell[CellGroupData[{
-Cell[309223, 7506, 780, 17, 77, "Input"],
-Cell[310006, 7525, 1753, 49, 492, "Output"]
+Cell[309505, 7511, 780, 17, 77, "Input"],
+Cell[310288, 7530, 1753, 49, 492, "Output"]
 }, Open  ]],
-Cell[311774, 7577, 315, 6, 51, "Text"],
-Cell[312092, 7585, 1495, 36, 165, "Input"],
-Cell[313590, 7623, 115, 1, 31, "Text"],
+Cell[312056, 7582, 315, 6, 51, "Text"],
+Cell[312374, 7590, 1495, 36, 165, "Input"],
+Cell[313872, 7628, 115, 1, 31, "Text"],
 Cell[CellGroupData[{
-Cell[313730, 7628, 408, 8, 32, "Input"],
-Cell[314141, 7638, 1059, 21, 223, "Output"]
+Cell[314012, 7633, 408, 8, 32, "Input"],
+Cell[314423, 7643, 1059, 21, 223, "Output"]
 }, Open  ]],
-Cell[315215, 7662, 115, 1, 31, "Text"],
-Cell[315333, 7665, 509, 13, 77, "Input"],
-Cell[315845, 7680, 151, 3, 31, "Text"],
+Cell[315497, 7667, 115, 1, 31, "Text"],
+Cell[315615, 7670, 509, 13, 77, "Input"],
+Cell[316127, 7685, 151, 3, 31, "Text"],
 Cell[CellGroupData[{
-Cell[316021, 7687, 2019, 40, 253, "Input"],
-Cell[318043, 7729, 61571, 1044, 260, 12635, 242, "CachedBoxData", "BoxData", \
+Cell[316303, 7692, 2019, 40, 253, "Input"],
+Cell[318325, 7734, 61571, 1044, 260, 12635, 242, "CachedBoxData", "BoxData", \
 "Output"]
 }, Open  ]],
-Cell[379629, 8776, 220, 3, 31, "Text"],
+Cell[379911, 8781, 220, 3, 31, "Text"],
 Cell[CellGroupData[{
-Cell[379874, 8783, 342, 6, 32, "Input"],
-Cell[380219, 8791, 211, 3, 31, "Output"]
+Cell[380156, 8788, 342, 6, 32, "Input"],
+Cell[380501, 8796, 211, 3, 31, "Output"]
 }, Open  ]],
-Cell[380445, 8797, 338, 7, 51, "Text"],
-Cell[380786, 8806, 1643, 39, 165, "Input"],
-Cell[382432, 8847, 153, 3, 31, "Text"],
+Cell[380727, 8802, 338, 7, 51, "Text"],
+Cell[381068, 8811, 1643, 39, 165, "Input"],
+Cell[382714, 8852, 153, 3, 31, "Text"],
 Cell[CellGroupData[{
-Cell[382610, 8854, 1712, 35, 77, "Input"],
-Cell[384325, 8891, 29220, 543, 375, 7297, 184, "CachedBoxData", "BoxData", \
+Cell[382892, 8859, 1712, 35, 77, "Input"],
+Cell[384607, 8896, 29220, 543, 375, 7297, 184, "CachedBoxData", "BoxData", \
 "Output"]
 }, Open  ]],
-Cell[413560, 9437, 397, 7, 91, "Text"],
-Cell[413960, 9446, 1249, 26, 55, "Input"],
-Cell[415212, 9474, 268, 5, 51, "Text"],
-Cell[415483, 9481, 2290, 52, 253, "Input"],
-Cell[417776, 9535, 246, 5, 51, "Text"],
+Cell[413842, 9442, 397, 7, 91, "Text"],
+Cell[414242, 9451, 1249, 26, 55, "Input"],
+Cell[415494, 9479, 268, 5, 51, "Text"],
+Cell[415765, 9486, 2290, 52, 253, "Input"],
+Cell[418058, 9540, 246, 5, 51, "Text"],
 Cell[CellGroupData[{
-Cell[418047, 9544, 3599, 74, 297, "Input"],
-Cell[421649, 9620, 124755, 2152, 418, 25824, 531, "CachedBoxData", "BoxData", \
+Cell[418329, 9549, 3599, 74, 297, "Input"],
+Cell[421931, 9625, 124755, 2152, 418, 25824, 531, "CachedBoxData", "BoxData", \
 "Output"]
 }, Open  ]],
-Cell[546419, 11775, 266, 3, 31, "Text"],
+Cell[546701, 11780, 266, 3, 31, "Text"],
 Cell[CellGroupData[{
-Cell[546710, 11782, 490, 8, 32, "Input"],
-Cell[547203, 11792, 309, 4, 31, "Output"]
+Cell[546992, 11787, 490, 8, 32, "Input"],
+Cell[547485, 11797, 309, 4, 31, "Output"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
